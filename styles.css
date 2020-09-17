@@ -1,15 +1,18 @@
-body {
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
   }
- 
-   .USA-flag {
-    width: 900px;
-    height: 450px;
+  
+  .blue {
+    background-color: blue;
     position: absolute;
+    top: 0;
+    left: 0;
+    width: 50%;
+    height: 420px;
+     
   }
-
   .red {
     background-color:red;
     width: 100%;
@@ -22,13 +25,5 @@ body {
     height: 60px;
   }
 
-  .blue {
-    background-color: blue;
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 900px;
-    height: 420px;
-     
-  }
+ 
   
