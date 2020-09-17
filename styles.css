@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
   }
-  
+
   .blue {
     background-color: blue;
     position: absolute;
@@ -11,8 +11,18 @@
     left: 0;
     width: 50%;
     height: 420px;
-     
+    padding: 20px;
+         
   }
+
+  .blue div {
+    height: 36px;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    letter-spacing: 70px;
+  }
+
   .red {
     background-color:red;
     width: 100%;
